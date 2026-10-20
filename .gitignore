@@ -31,6 +31,12 @@ target/
 *.iml
 .vscode/
 
-.settings/
-.classpath
+# Eclipse / VS Code Java
 .project
+.classpath
+.settings/
+.factorypath
+bin/
+
+# Identifiants MySQL locaux
+db.properties
